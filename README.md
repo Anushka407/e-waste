@@ -1,1 +1,1 @@
-E-wastw generation classification
+E-waste generation classification
