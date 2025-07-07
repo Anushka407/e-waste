@@ -51,7 +51,7 @@ A simple **Sequential CNN** model was implemented:
 
 
 ## Training
-- Trained over 10–15 epochs with early stopping
+- Trained over 15 epochs with early stopping
 - Monitored `val_loss` to avoid overfitting
 - Batch size: 32
 - Validation accuracy plateaued at ~60%, indicating scope for improvement
