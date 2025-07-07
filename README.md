@@ -20,7 +20,7 @@ With the rapid rise in electronics consumption, managing electronic waste (e-was
 
 
 ## Dataset
-- Source: Kaggle -  E-Waste Image Dataset
+- **Source**: Kaggle - E-Waste Image Dataset  
 - Classes: Battery, Keyboard, Microwave, Mobile, Mouse, PCB, Player, Printer, Television, Washing Machine
 - Structure: Organized in folders by class label.
 - Size: Balanced with 2400 training images, 300 validation images, 300 test images.
