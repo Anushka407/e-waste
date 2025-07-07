@@ -81,7 +81,7 @@ Model deployment was done using **Gradio**, a Python library that creates intera
 - Integrate with IoT sensors for automated hardware solutions
 - Add object detection (not just classification)
 
-👩‍💻 Author
+## 👩‍💻 Author
 Anushka Shree,MCA 2nd year
 EDUNET |SHELL| Virtual Internship
 
