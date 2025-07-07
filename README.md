@@ -1,4 +1,4 @@
-E-waste generation classification
+## E-WASTE GENERATION CLASSIFICATION
 
 This project is part of the **EDUNET FOUNDATION  |SHELL|  AI/ML Virtual Internship**. The goal is to build a deep learning model using Convolutional Neural Networks (CNNs) to classify e-waste images into distinct categories such as mobile phones, cables, appliances, and more. This model aims to support automated e-waste sorting for sustainable waste management.
 
@@ -20,10 +20,10 @@ With the rapid rise in electronics consumption, managing electronic waste (e-was
 
 
 ## Dataset
-Source: Kaggle - E-Waste Image Dataset
-Classes: Battery, Keyboard, Microwave, Mobile, Mouse, PCB, Player, Printer, Television, Washing Machine
-Structure: Organized in folders by class label.
-Size: Balanced with 2400 training images, 300 validation images, 300 test images.
+- Source: Kaggle -  E-Waste Image Dataset
+- Classes: Battery, Keyboard, Microwave, Mobile, Mouse, PCB, Player, Printer, Television, Washing Machine
+- Structure: Organized in folders by class label.
+- Size: Balanced with 2400 training images, 300 validation images, 300 test images.
 
 
 
